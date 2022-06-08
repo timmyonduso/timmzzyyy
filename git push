@@ -1,0 +1,6 @@
+git init
+git add .
+git config user.name "timmzzyy"
+git config user.email "timmyonduso58@gmail.com"
+git commit -m "initial commit"
+git push -u origin master
