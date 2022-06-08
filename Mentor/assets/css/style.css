@@ -71,6 +71,13 @@ h1, h2, h3, h4, h5, h6 {
   background: #fff;
 }
 
+#nelson mandela{
+    color: white;
+}
+#albert einstein{
+    color: white;
+}
+
 #preloader:before {
   content: "";
   position: fixed;
@@ -142,8 +149,9 @@ h1, h2, h3, h4, h5, h6 {
 * Get Startet Button 
 */
 .get-started-btn {
+  position: center;
   margin-left: 22px;
-  background: #5fcf80;
+  background: #cb7e0b;
   color: #fff;
   border-radius: 50px;
   padding: 8px 25px;
@@ -389,6 +397,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 24px;
 }
 #hero .btn-get-started {
+  position: center;
   font-family: "Raleway", sans-serif;
   font-weight: 500;
   font-size: 15px;
