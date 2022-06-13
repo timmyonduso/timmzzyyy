@@ -983,6 +983,15 @@ section {
 /*--------------------------------------------------------------
 # Events
 --------------------------------------------------------------*/
+/*
+#main .breadcrumbs{
+    width: 100%;
+    height: 80vh;
+    background: url("../img/Mindreps/Livelihoods 1.jpg") top center;
+    background-size: cover;
+    position: relative;
+}*/
+
 .events .card {
   border: 0;
   padding: 0 30px;
